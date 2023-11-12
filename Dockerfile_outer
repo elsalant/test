@@ -1,0 +1,8 @@
+FROM ubuntu:latest
+WORKDIR /app
+COPY ./outerscript.sh .
+RUN chmod +x outerscript.sh
+RUN apt-get update && apt-get install -y docker.io
+# allow the container to communicate with the host's Docker daemon
+VOLUME /var/run/docker.sock
+CMD ["./outerscript.sh"]
