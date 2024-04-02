@@ -1,6 +1,6 @@
-name: Blog Idea
+name: Developer Input
 description: Submit the details for a blog idea to capture as much info as possible, at the time of ideation.
-title: "Blog Idea: "
+title: "Things for the developer: "
 labels: ["blog idea"]
 body:
   - type: input
