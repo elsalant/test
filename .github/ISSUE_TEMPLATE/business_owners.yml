@@ -1,13 +1,13 @@
 ---
-name: Developer Input
+name: Business Input
 description: Submit the details for a blog idea to capture as much info as
   possible, at the time of ideation.
-title: "Things for the developer: "
+title: "Things for the business owner: "
 labels:
-  - developer input
+  - business owner
 body:
   - type: input
-    id: developer-input
+    id: business-owner
     attributes:
       label: Blog Title
       description: >
