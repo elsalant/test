@@ -1,0 +1,278 @@
+---
+name: Developer Input
+description: Submit the details for a blog idea to capture as much info as
+  possible, at the time of ideation.
+title: "Things for the developer: "
+labels:
+  - developer input
+body:
+  - type: input
+    id: developer-input
+    attributes:
+      label: Blog Title
+      description: >
+        Far far away, behind the word mountains, far from the countries Vokalia and 
+        Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right 
+        at the coast of the Semantics, a large language ocean. A small river named Duden flows 
+        by their place and supplies it with the necessary regelialia. It is a paradisematic 
+        country, in which roasted parts of sentences fly into your mouth. Even the all-powerful 
+        Pointing has no control about the blind texts it is an almost unorthographic life 
+        One day however a small line of blind text by the name of Lorem Ipsum decided to 
+        leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of 
+        bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. 
+        She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the 
+        skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline 
+        of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she 
+        continued her way. On her way she met a copy. The copy warned the Little Blind Text, that 
+        where it came from it would have been rewritten a thousand times and everything that was 
+        left from its origin would be the word "and" and the Little Blind Text should turn around 
+        and return to its own, safe country. But nothing the copy said could convince her and so it didn’t 
+        take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged 
+        her into their agency, where they abused her for their projects again and again. And if she hasn’t 
+        been rewritten, then they are still using her. Far far away, behind the word mountains, far from the 
+        countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove 
+        right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place 
+        and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an 
+        almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum 
+        decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because 
+        there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text 
+        didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her 
+        hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. 
+               Far far away, behind the word mountains, far from the countries Vokalia and 
+        Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right 
+        at the coast of the Semantics, a large language ocean. A small river named Duden flows 
+        by their place and supplies it with the necessary regelialia. It is a paradisematic 
+        country, in which roasted parts of sentences fly into your mouth. Even the all-powerful 
+        Pointing has no control about the blind texts it is an almost unorthographic life 
+        One day however a small line of blind text by the name of Lorem Ipsum decided to 
+        leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of 
+        bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. 
+        She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the 
+        skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline 
+        of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she 
+        continued her way. On her way she met a copy. The copy warned the Little Blind Text, that 
+        where it came from it would have been rewritten a thousand times and everything that was 
+        left from its origin would be the word "and" and the Little Blind Text should turn around 
+        and return to its own, safe country. But nothing the copy said could convince her and so it didn’t 
+        take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged 
+        her into their agency, where they abused her for their projects again and again. And if she hasn’t 
+        been rewritten, then they are still using her. Far far away, behind the word mountains, far from the 
+        countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove 
+        right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place 
+        and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an 
+        almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum 
+        decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because 
+        there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text 
+        didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her 
+        hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. 
+               Far far away, behind the word mountains, far from the countries Vokalia and 
+        Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right 
+        at the coast of the Semantics, a large language ocean. A small river named Duden flows 
+        by their place and supplies it with the necessary regelialia. It is a paradisematic 
+        country, in which roasted parts of sentences fly into your mouth. Even the all-powerful 
+        Pointing has no control about the blind texts it is an almost unorthographic life 
+        One day however a small line of blind text by the name of Lorem Ipsum decided to 
+        leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of 
+        bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. 
+        She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the 
+        skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline 
+        of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she 
+        continued her way. On her way she met a copy. The copy warned the Little Blind Text, that 
+        where it came from it would have been rewritten a thousand times and everything that was 
+        left from its origin would be the word "and" and the Little Blind Text should turn around 
+        and return to its own, safe country. But nothing the copy said could convince her and so it didn’t 
+        take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged 
+        her into their agency, where they abused her for their projects again and again. And if she hasn’t 
+        been rewritten, then they are still using her. Far far away, behind the word mountains, far from the 
+        countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove 
+        right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place 
+        and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an 
+        almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum 
+        decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because 
+        there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text 
+        didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her 
+        hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. 
+               Far far away, behind the word mountains, far from the countries Vokalia and 
+        Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right 
+        at the coast of the Semantics, a large language ocean. A small river named Duden flows 
+        by their place and supplies it with the necessary regelialia. It is a paradisematic 
+        country, in which roasted parts of sentences fly into your mouth. Even the all-powerful 
+        Pointing has no control about the blind texts it is an almost unorthographic life 
+        One day however a small line of blind text by the name of Lorem Ipsum decided to 
+        leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of 
+        bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. 
+        She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the 
+        skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline 
+        of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she 
+        continued her way. On her way she met a copy. The copy warned the Little Blind Text, that 
+        where it came from it would have been rewritten a thousand times and everything that was 
+        left from its origin would be the word "and" and the Little Blind Text should turn around 
+        and return to its own, safe country. But nothing the copy said could convince her and so it didn’t 
+        take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged 
+        her into their agency, where they abused her for their projects again and again. And if she hasn’t 
+        been rewritten, then they are still using her. Far far away, behind the word mountains, far from the 
+        countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove 
+        right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place 
+        and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an 
+        almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum 
+        decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because 
+        there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text 
+        didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her 
+        hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. 
+               Far far away, behind the word mountains, far from the countries Vokalia and 
+        Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right 
+        at the coast of the Semantics, a large language ocean. A small river named Duden flows 
+        by their place and supplies it with the necessary regelialia. It is a paradisematic 
+        country, in which roasted parts of sentences fly into your mouth. Even the all-powerful 
+        Pointing has no control about the blind texts it is an almost unorthographic life 
+        One day however a small line of blind text by the name of Lorem Ipsum decided to 
+        leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of 
+        bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. 
+        She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the 
+        skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline 
+        of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she 
+        continued her way. On her way she met a copy. The copy warned the Little Blind Text, that 
+        where it came from it would have been rewritten a thousand times and everything that was 
+        left from its origin would be the word "and" and the Little Blind Text should turn around 
+        and return to its own, safe country. But nothing the copy said could convince her and so it didn’t 
+        take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged 
+        her into their agency, where they abused her for their projects again and again. And if she hasn’t 
+        been rewritten, then they are still using her. Far far away, behind the word mountains, far from the 
+        countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove 
+        right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place 
+        and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an 
+        almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum 
+        decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because 
+        there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text 
+        didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her 
+        hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. 
+               Far far away, behind the word mountains, far from the countries Vokalia and 
+        Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right 
+        at the coast of the Semantics, a large language ocean. A small river named Duden flows 
+        by their place and supplies it with the necessary regelialia. It is a paradisematic 
+        country, in which roasted parts of sentences fly into your mouth. Even the all-powerful 
+        Pointing has no control about the blind texts it is an almost unorthographic life 
+        One day however a small line of blind text by the name of Lorem Ipsum decided to 
+        leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of 
+        bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. 
+        She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the 
+        skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline 
+        of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she 
+        continued her way. On her way she met a copy. The copy warned the Little Blind Text, that 
+        where it came from it would have been rewritten a thousand times and everything that was 
+        left from its origin would be the word "and" and the Little Blind Text should turn around 
+        and return to its own, safe country. But nothing the copy said could convince her and so it didn’t 
+        take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged 
+        her into their agency, where they abused her for their projects again and again. And if she hasn’t 
+        been rewritten, then they are still using her. Far far away, behind the word mountains, far from the 
+        countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove 
+        right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place 
+        and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an 
+        almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum 
+        decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because 
+        there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text 
+        didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her 
+        hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. 
+               Far far away, behind the word mountains, far from the countries Vokalia and 
+        Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right 
+        at the coast of the Semantics, a large language ocean. A small river named Duden flows 
+        by their place and supplies it with the necessary regelialia. It is a paradisematic 
+        country, in which roasted parts of sentences fly into your mouth. Even the all-powerful 
+        Pointing has no control about the blind texts it is an almost unorthographic life 
+        One day however a small line of blind text by the name of Lorem Ipsum decided to 
+        leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of 
+        bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. 
+        She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the 
+        skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline 
+        of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she 
+        continued her way. On her way she met a copy. The copy warned the Little Blind Text, that 
+        where it came from it would have been rewritten a thousand times and everything that was 
+        left from its origin would be the word "and" and the Little Blind Text should turn around 
+        and return to its own, safe country. But nothing the copy said could convince her and so it didn’t 
+        take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged 
+        her into their agency, where they abused her for their projects again and again. And if she hasn’t 
+        been rewritten, then they are still using her. Far far away, behind the word mountains, far from the 
+        countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove 
+        right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place 
+        and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an 
+        almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum 
+        decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because 
+        there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text 
+        didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. 
+        When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her 
+        hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. 
+    validations:
+      required: false
+  - type: input
+    id: blog-slug
+    attributes:
+      label: Blog Slug
+      description: The path for the blog post
+      placeholder: e.g. title-of-blog-post
+    validations:
+      required: false
+  - type: input
+    id: blog-excerpt
+    attributes:
+      label: Blog Excerpt
+      description: Small description of the blog post
+    validations:
+      required: false
+  - type: textarea
+    id: blog-topic-notes
+    attributes:
+      label: Topic Notes
+      description: Do you have any notes on the topic? Enter the raw throughts and ideas
+      placeholder: Describe the topic
+    validations:
+      required: false
+  - type: textarea
+    id: blog-references
+    attributes:
+      label: Topic References
+      description: Do you have any references on the topic? Enter the URLs
+    validations:
+      required: false
+  - type: checkboxes
+    id: blog-tags
+    attributes:
+      label: Tags for the Blog Post
+      description: Select the tags for the blog post
+      options:
+        - label: SharePoint
+        - label: Microsoft 365 Copilot
+        - label: Custom Copilot
+        - label: AI
+        - label: Power Platform
+        - label: Azure
+        - label: Microsoft Teams
+        - label: Microsoft Graph
+        - label: Microsoft Search
+        - label: Microsoft Viva
+        - label: Microsoft Lists
+        - label: Microsoft OneDrive
+        - label: Microsoft 365
+        - label: Microsoft 365 for Apps
+        - label: Microsoft 365 Adoption
+        - label: Microsoft 365 Governance
+        - label: Microsoft 365 Security
+        - label: Development
+        - label: PowerShell
+  - type: markdown
+    attributes:
+      value: |
+        Support Tools: 
+        - [Microsoft Designer](https://designer.microsoft.com/image-creator)
