@@ -11,32 +11,31 @@ Your assistance is required to complete the data impact assessment for human-inp
 
 Solution description: IBM Research trained models are Enterprise-level English-language models trained with large volumes of data that has gone intensive pre-processing and careful analysis. The Granite Base (13B) V1.0 has been trained using the 0.3 version of the IBM Data Pile, which consists of well over 1T tokens.
 human-input-experiments reads the following data sets: 
-ArXiv from 
-DeepMind Mathematics from 
-Project Gutenberg from 
-PubMed Central from 
-US Patents from 
-GitHub Clean from 
-Free Law from 
+ArXiv from
+DeepMind Mathematics from
+Project Gutenberg from
+PubMed Central from
+US Patents from
+GitHub Clean from
+Free Law from
 SEC Filing from 
-CommonCrawl CC-MAIN-2022-33 from 
+CommonCrawl CC-MAIN-2022-33 from
 which contains PI
-CommonCrawl CC-MAIN-2022-40 from 
+CommonCrawl CC-MAIN-2022-40 from
 which contains PI
-CommonCrawl CC-MAIN-2022-49 from 
+CommonCrawl CC-MAIN-2022-49 from
 which contains PI
-Hacker News from 
-Open Web Text from 
-Webhose from 
-Wikimedia from 
+Hacker News from
+Open Web Text from
+Webhose from
+Wikimedia from
 
 For items requiring free text input (no checkboxes), please create a comment with a list of the information.  On each line there should be a fieldname and its value.
 
-
-
  **Dataset Hacker News**
 
-datasets.11.metadata.programmingLanguage: Choose 1 . 
+datasets.11.metadata.programmingLanguage: Choose 1 .
+
 - [ ] Javascript <!--datasets.11.metadata.programmingLanguage-->
 - [ ] Python <!--datasets.11.metadata.programmingLanguage-->
 - [ ] Go <!--datasets.11.metadata.programmingLanguage-->
@@ -59,15 +58,15 @@ datasets.11.metadata.programmingLanguage: Choose 1 .
 - [ ] Rust <!--datasets.11.metadata.programmingLanguage-->
 - [ ] Perl <!--datasets.11.metadata.programmingLanguage-->
 
-datasets.11.derivedFrom 
-
+datasets.11.derivedFrom
 
  **Dataset Open Web Text**
 
-:red_circle:datasets.12.metadata.geography 
-datasets.12.metadata.dataSubjectLocations 
-:red_circle:datasets.12.metadata.maxExpectedSize.value 
-:red_circle:datasets.12.metadata.maxExpectedSize.units: Choose 1 . 
+:red_circle:datasets.12.metadata.geography
+datasets.12.metadata.dataSubjectLocations
+:red_circle:datasets.12.metadata.maxExpectedSize.value
+:red_circle:datasets.12.metadata.maxExpectedSize.units: Choose 1 .
+
 - [ ] B <!--datasets.12.metadata.maxExpectedSize.units-->
 - [ ] KB <!--datasets.12.metadata.maxExpectedSize.units-->
 - [ ] GB <!--datasets.12.metadata.maxExpectedSize.units-->
@@ -77,10 +76,11 @@ datasets.12.metadata.dataSubjectLocations
 
 :red_circle:datasets.12.metadata.dataItems - replace $ by relevant values in the following template:
 
-	datasets.12.metadata.dataItems: sensitivity of column $ classified as $ is $
+datasets.12.metadata.dataItems: sensitivity of column $ classified as $ is $
 e.g., datasets.12.metadata.dataItems: sensitivity of column ACCOUNT classified as FINANCE is PI
 
-:red_circle:datasets.12.metadata.encryption: Choose 1 . 
+:red_circle:datasets.12.metadata.encryption: Choose 1 .
+
 - [ ] AES <!--datasets.12.metadata.encryption-->
 - [ ] Blowfish <!--datasets.12.metadata.encryption-->
 - [ ] DES <!--datasets.12.metadata.encryption-->
@@ -108,7 +108,8 @@ e.g., datasets.12.metadata.dataItems: sensitivity of column ACCOUNT classified a
 - [ ] PBEWithSHA1AndPC4_128 <!--datasets.12.metadata.encryption-->
 - [ ] RC2 <!--datasets.12.metadata.encryption-->
 
-:red_circle:datasets.12.metadata.retentionDuration: Choose 1 . 
+:red_circle:datasets.12.metadata.retentionDuration: Choose 1 .
+
 - [ ] Less than 24 hours <!--datasets.12.metadata.retentionDuration-->
 - [ ] 1-30 days <!--datasets.12.metadata.retentionDuration-->
 - [ ] 31 days to less than 1 year <!--datasets.12.metadata.retentionDuration-->
@@ -119,14 +120,16 @@ e.g., datasets.12.metadata.dataItems: sensitivity of column ACCOUNT classified a
 - [ ] Greater than 30 years <!--datasets.12.metadata.retentionDuration-->
 - [ ] The processing activity does not retain PI <!--datasets.12.metadata.retentionDuration-->
 
-:red_circle:datasets.12.metadata.deletionMechanism: Choose 1 . 
+:red_circle:datasets.12.metadata.deletionMechanism: Choose 1 .
+
 - [ ] Archive Server <!--datasets.12.metadata.deletionMechanism-->
 - [ ] Data Deletion <!--datasets.12.metadata.deletionMechanism-->
 - [ ] Physical Archive <!--datasets.12.metadata.deletionMechanism-->
 - [ ] Physically Destroyed <!--datasets.12.metadata.deletionMechanism-->
 - [ ] Other <!--datasets.12.metadata.deletionMechanism-->
 
-datasets.12.metadata.programmingLanguage: Choose 1 . 
+datasets.12.metadata.programmingLanguage: Choose 1 .
+
 - [ ] Javascript <!--datasets.12.metadata.programmingLanguage-->
 - [ ] Python <!--datasets.12.metadata.programmingLanguage-->
 - [ ] Go <!--datasets.12.metadata.programmingLanguage-->
@@ -149,15 +152,15 @@ datasets.12.metadata.programmingLanguage: Choose 1 .
 - [ ] Rust <!--datasets.12.metadata.programmingLanguage-->
 - [ ] Perl <!--datasets.12.metadata.programmingLanguage-->
 
-datasets.12.derivedFrom 
-
+datasets.12.derivedFrom
 
  **Dataset Webhose**
 
-:red_circle:datasets.13.metadata.geography 
-datasets.13.metadata.dataSubjectLocations 
-:red_circle:datasets.13.metadata.maxExpectedSize.value 
-:red_circle:datasets.13.metadata.maxExpectedSize.units: Choose 1 . 
+:red_circle:datasets.13.metadata.geography
+datasets.13.metadata.dataSubjectLocations
+:red_circle:datasets.13.metadata.maxExpectedSize.value
+:red_circle:datasets.13.metadata.maxExpectedSize.units: Choose 1 .
+
 - [ ] B <!--datasets.13.metadata.maxExpectedSize.units-->
 - [ ] KB <!--datasets.13.metadata.maxExpectedSize.units-->
 - [ ] GB <!--datasets.13.metadata.maxExpectedSize.units-->
@@ -167,10 +170,11 @@ datasets.13.metadata.dataSubjectLocations
 
 :red_circle:datasets.13.metadata.dataItems - replace $ by relevant values in the following template:
 
-	datasets.13.metadata.dataItems: sensitivity of column $ classified as $ is $
+datasets.13.metadata.dataItems: sensitivity of column $ classified as $ is $
 e.g., datasets.13.metadata.dataItems: sensitivity of column ACCOUNT classified as FINANCE is PI
 
-:red_circle:datasets.13.metadata.encryption: Choose 1 . 
+:red_circle:datasets.13.metadata.encryption: Choose 1 .
+
 - [ ] AES <!--datasets.13.metadata.encryption-->
 - [ ] Blowfish <!--datasets.13.metadata.encryption-->
 - [ ] DES <!--datasets.13.metadata.encryption-->
@@ -198,7 +202,8 @@ e.g., datasets.13.metadata.dataItems: sensitivity of column ACCOUNT classified a
 - [ ] PBEWithSHA1AndPC4_128 <!--datasets.13.metadata.encryption-->
 - [ ] RC2 <!--datasets.13.metadata.encryption-->
 
-:red_circle:datasets.13.metadata.retentionDuration: Choose 1 . 
+:red_circle:datasets.13.metadata.retentionDuration: Choose 1 .
+
 - [ ] Less than 24 hours <!--datasets.13.metadata.retentionDuration-->
 - [ ] 1-30 days <!--datasets.13.metadata.retentionDuration-->
 - [ ] 31 days to less than 1 year <!--datasets.13.metadata.retentionDuration-->
@@ -209,14 +214,16 @@ e.g., datasets.13.metadata.dataItems: sensitivity of column ACCOUNT classified a
 - [ ] Greater than 30 years <!--datasets.13.metadata.retentionDuration-->
 - [ ] The processing activity does not retain PI <!--datasets.13.metadata.retentionDuration-->
 
-:red_circle:datasets.13.metadata.deletionMechanism: Choose 1 . 
+:red_circle:datasets.13.metadata.deletionMechanism: Choose 1 .
+
 - [ ] Archive Server <!--datasets.13.metadata.deletionMechanism-->
 - [ ] Data Deletion <!--datasets.13.metadata.deletionMechanism-->
 - [ ] Physical Archive <!--datasets.13.metadata.deletionMechanism-->
 - [ ] Physically Destroyed <!--datasets.13.metadata.deletionMechanism-->
 - [ ] Other <!--datasets.13.metadata.deletionMechanism-->
 
-datasets.13.metadata.programmingLanguage: Choose 1 . 
+datasets.13.metadata.programmingLanguage: Choose 1 .
+
 - [ ] Javascript <!--datasets.13.metadata.programmingLanguage-->
 - [ ] Python <!--datasets.13.metadata.programmingLanguage-->
 - [ ] Go <!--datasets.13.metadata.programmingLanguage-->
@@ -239,15 +246,15 @@ datasets.13.metadata.programmingLanguage: Choose 1 .
 - [ ] Rust <!--datasets.13.metadata.programmingLanguage-->
 - [ ] Perl <!--datasets.13.metadata.programmingLanguage-->
 
-datasets.13.derivedFrom 
-
+datasets.13.derivedFrom
 
  **Dataset Wikimedia**
 
-:red_circle:datasets.14.metadata.geography 
-datasets.14.metadata.dataSubjectLocations 
-:red_circle:datasets.14.metadata.maxExpectedSize.value 
-:red_circle:datasets.14.metadata.maxExpectedSize.units: Choose 1 . 
+:red_circle:datasets.14.metadata.geography
+datasets.14.metadata.dataSubjectLocations
+:red_circle:datasets.14.metadata.maxExpectedSize.value
+:red_circle:datasets.14.metadata.maxExpectedSize.units: Choose 1 .
+
 - [ ] B <!--datasets.14.metadata.maxExpectedSize.units-->
 - [ ] KB <!--datasets.14.metadata.maxExpectedSize.units-->
 - [ ] GB <!--datasets.14.metadata.maxExpectedSize.units-->
@@ -257,10 +264,11 @@ datasets.14.metadata.dataSubjectLocations
 
 :red_circle:datasets.14.metadata.dataItems - replace $ by relevant values in the following template:
 
-	datasets.14.metadata.dataItems: sensitivity of column $ classified as $ is $
+datasets.14.metadata.dataItems: sensitivity of column $ classified as $ is $
 e.g., datasets.14.metadata.dataItems: sensitivity of column ACCOUNT classified as FINANCE is PI
 
-:red_circle:datasets.14.metadata.encryption: Choose 1 . 
+:red_circle:datasets.14.metadata.encryption: Choose 1 .
+
 - [ ] AES <!--datasets.14.metadata.encryption-->
 - [ ] Blowfish <!--datasets.14.metadata.encryption-->
 - [ ] DES <!--datasets.14.metadata.encryption-->
@@ -288,7 +296,8 @@ e.g., datasets.14.metadata.dataItems: sensitivity of column ACCOUNT classified a
 - [ ] PBEWithSHA1AndPC4_128 <!--datasets.14.metadata.encryption-->
 - [ ] RC2 <!--datasets.14.metadata.encryption-->
 
-:red_circle:datasets.14.metadata.retentionDuration: Choose 1 . 
+:red_circle:datasets.14.metadata.retentionDuration: Choose 1 .
+
 - [ ] Less than 24 hours <!--datasets.14.metadata.retentionDuration-->
 - [ ] 1-30 days <!--datasets.14.metadata.retentionDuration-->
 - [ ] 31 days to less than 1 year <!--datasets.14.metadata.retentionDuration-->
@@ -299,14 +308,16 @@ e.g., datasets.14.metadata.dataItems: sensitivity of column ACCOUNT classified a
 - [ ] Greater than 30 years <!--datasets.14.metadata.retentionDuration-->
 - [ ] The processing activity does not retain PI <!--datasets.14.metadata.retentionDuration-->
 
-:red_circle:datasets.14.metadata.deletionMechanism: Choose 1 . 
+:red_circle:datasets.14.metadata.deletionMechanism: Choose 1 .
+
 - [ ] Archive Server <!--datasets.14.metadata.deletionMechanism-->
 - [ ] Data Deletion <!--datasets.14.metadata.deletionMechanism-->
 - [ ] Physical Archive <!--datasets.14.metadata.deletionMechanism-->
 - [ ] Physically Destroyed <!--datasets.14.metadata.deletionMechanism-->
 - [ ] Other <!--datasets.14.metadata.deletionMechanism-->
 
-datasets.14.metadata.programmingLanguage: Choose 1 . 
+datasets.14.metadata.programmingLanguage: Choose 1 .
+
 - [ ] Javascript <!--datasets.14.metadata.programmingLanguage-->
 - [ ] Python <!--datasets.14.metadata.programmingLanguage-->
 - [ ] Go <!--datasets.14.metadata.programmingLanguage-->
@@ -329,7 +340,6 @@ datasets.14.metadata.programmingLanguage: Choose 1 .
 - [ ] Rust <!--datasets.14.metadata.programmingLanguage-->
 - [ ] Perl <!--datasets.14.metadata.programmingLanguage-->
 
-datasets.14.derivedFrom 
-
+datasets.14.derivedFrom
 
 Fields with a red circle :red_circle: are mandatory. Fields without it are optional.
