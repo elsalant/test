@@ -1,7 +1,9 @@
 ---
 name: Business Input
-description: Hello legal
-        Your assistance is required to complete the data impact assessment for dmf-poc. Please provide the information requested after the summary of the current state of the assessment. This issue is related to pull request #49
+description: >
+   Hello legal
+   Your assistance is required to complete the data impact assessment for dmf-poc. 
+   Please provide the information requested after the summary of the current state of the assessment. This issue is related to pull request #49
 title: "Things for the business owner: "
 labels:
   - business owner
