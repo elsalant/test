@@ -57,7 +57,6 @@ body:
         - label: High <!--overallRisk-->
         - label: Medium <!--overallRisk-->
         - label: Low <!--overallRisk-->
-        solution.processingInfo.consentLink 
   - type: input
     id: sensitivity
     attributes:
