@@ -41,19 +41,19 @@ body:
       label: Legal Basis
       description:  "solution.processingInfo.legalBasis: Choose 1"
       options:
-        - label: "Legal obligation: the processing is necessary for IBM to comply with the law <!--solution.processingInfo.legalBasis-->"
-        - label: "Contract: the processing is necessary to fulfill a contract between IBM and the data subject <!--solution.processingInfo.legalBasis-->"
-        - label: "Legitimate interests: the processing is necessary for IBM's (or a third-party's) legitimate interests and those legitimate interests are not overridden by a reason to protect the data subject's personal information from the processing <!--solution.processingInfo.legalBasis-->"
-        - label: "Express Consent: the data subject has given clear consent for IBM to process their personal data for a specific purpose <!--solution.processingInfo.legalBasis-->"
+        - label: "Legal obligation: the processing is necessary for IBM to comply with the law" #--solution.processingInfo.legalBasis
+        - label: "Contract: the processing is necessary to fulfill a contract between IBM and the data subject" #solution.processingInfo.legalBasis
+        - label: "Legitimate interests: the processing is necessary for IBM's (or a third-party's) legitimate interests and those legitimate interests are not overridden by a reason to protect the data subject's personal information from the processing" #--solution.processingInfo.legalBasis
+        - label: "Express Consent: the data subject has given clear consent for IBM to process their personal data for a specific purpose" #!--solution.processingInfo.legalBasis-->"
   - type: dropdown
     id: consent
     attributes:
       label: Risk
       description:  "solution.processingInfo.consentLink: Choose 1" 
       options:
-        - High <!--overallRisk-->
-        - Medium <!--overallRisk-->
-        - Low <!--overallRisk-->
+        - High #--overallRisk
+        - Medium #--overallRisk
+        - Low #--overallRisk
       default: 1
   - type: input
     id: sensitivity
