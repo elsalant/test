@@ -1,7 +1,7 @@
 ---
 name: Business Input
-description: Submit the details for a blog idea to capture as much info as
-  possible, at the time of ideation.
+description: Hello legal
+        Your assistance is required to complete the data impact assessment for dmf-poc. Please provide the information requested after the summary of the current state of the assessment. This issue is related to pull request #49
 title: "Things for the business owner: "
 labels:
   - business owner
@@ -11,9 +11,6 @@ body:
     attributes:
       label: Data sets
       description: >
-        Hello legal
-        Your assistance is required to complete the data impact assessment for dmf-poc. Please provide the information requested after the summary of the current state of the assessment. This issue is related to pull request #49
-
         Solution description: IBM Research trained models are Enterprise-level English-language models trained with large volumes of data that has gone intensive pre-processing and careful analysis. The Granite Base (13B) V1.0 has been trained using the 0.3 version of the IBM Data Pile, which consists of well over 1T tokens.
         dmf-poc reads the following data sets:
           ArXiv from
