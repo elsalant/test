@@ -6,7 +6,7 @@ title: "Things for the business owner: "
 labels:
   - business owner
 body:
-  - type: input
+  - type: textarea
     id: business-owner
     attributes:
       label: Data sets
