@@ -11,8 +11,7 @@ body:
   - type: markdown
     id: business-owner
     attributes:
-      label: Data sets
-      description: >
+      value: |
         Solution description: IBM Research trained models are Enterprise-level English-language models trained with large volumes of data that has gone intensive pre-processing and careful analysis. The Granite Base (13B) V1.0 has been trained using the 0.3 version of the IBM Data Pile, which consists of well over 1T tokens.
         dmf-poc reads the following data sets:
           ArXiv from
