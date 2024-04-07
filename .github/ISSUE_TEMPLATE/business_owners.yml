@@ -64,7 +64,7 @@ body:
       description: >
         replace $ by relevant values in the following template:
 
-	      datasets.1.metadata.dataItems: sensitivity of column $ classified as $ is $
+        datasets.1.metadata.dataItems: sensitivity of column $ classified as $ is $
         e.g., datasets.1.metadata.dataItems: sensitivity of column ACCOUNT classified as FINANCE is PI
     validations:
       required: false
