@@ -39,7 +39,7 @@ body:
     id: legalBasis
     attributes:
       label: Legal Basis
-      description:  $\color{red}solution.processingInfo.legalBasis - choose  1$
+      description:  $\big\color{red}solution.processingInfo.legalBasis - choose  1$
       options:
         - label: "Legal obligation: the processing is necessary for IBM to comply with the law" #--solution.processingInfo.legalBasis
         - label: "Contract: the processing is necessary to fulfill a contract between IBM and the data subject" #solution.processingInfo.legalBasis
