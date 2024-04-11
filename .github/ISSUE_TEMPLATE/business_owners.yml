@@ -45,6 +45,7 @@ body:
         - label: "Contract: the processing is necessary to fulfill a contract between IBM and the data subject" #solution.processingInfo.legalBasis
         - label: "Legitimate interests: the processing is necessary for IBM's (or a third-party's) legitimate interests and those legitimate interests are not overridden by a reason to protect the data subject's personal information from the processing" #--solution.processingInfo.legalBasis
         - label: "Express Consent: the data subject has given clear consent for IBM to process their personal data for a specific purpose" #!--solution.processingInfo.legalBasis-->"
+      default: 1
   - type: dropdown
     id: consent
     attributes:
@@ -64,5 +65,6 @@ body:
 
         datasets.1.metadata.dataItems: sensitivity of column $ classified as $ is $
         e.g., datasets.1.metadata.dataItems: sensitivity of column ACCOUNT classified as FINANCE is PI
+      default: "datasets.1.metadata.dataItems: sensitivity of column ACCOUNT classified as FINANCE is PI"
     validations:
       required: false
