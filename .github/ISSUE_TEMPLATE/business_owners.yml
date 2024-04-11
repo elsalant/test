@@ -55,7 +55,7 @@ body:
         - High #--overallRisk
         - Medium #--overallRisk
         - Low #--overallRisk
-   default: 1
+    default: 1
   - type: input
     id: sensitivity
     attributes:
